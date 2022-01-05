@@ -446,10 +446,13 @@ Learn markdown
 ### Alpine.js
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn Alpine.js ](https://www.youtube.com/playlist?list=PLfdtiltiRHWF0T2HE1D4hxN4vaeh4wW3g)
 
-### Alpine.js
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn Alpine.js ](https://www.youtube.com/playlist?list=PLfdtiltiRHWF0T2HE1D4hxN4vaeh4wW3g)
-
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn Alpinejs with Practical Projects ](https://www.youtube.com/playlist?list=PLB4AdipoHpxYxE4vGj5Vb3_rwV99LEN8r)
+
+### Node.js
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Node.js Crash Course Tutorial ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Node.js Cloud `Api` ](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9noGbruLWtprOPvjA4rjmC)
+
 -------------------------------------
 
 ## Tailwind Css
