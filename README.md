@@ -179,6 +179,30 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [How to create and deploy PHP/MySQL Web Application using Digitalocean](https://www.youtube.com/watch?v=g5B9RI7v_1E&list=PL4apNHBRJVlQ56Pj3BS2CfxhavTAV3MLd)
 
 
+----------------------------------
+## Learn Javascript
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn JavaScript in Arabic 2021](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Beyond JavaScript](https://www.youtube.com/playlist?list=PL7mt2FDjAkPeHwHi0RUTKzWKMn_M1t2-M)
+
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Problems Solving With JavaScript](https://www.youtube.com/watch?v=EIfiHElTpyI&list=PLDoPjvoNmBAxCjHi-HIfNoZrMkfbuvVDY)
+
+## Advanced Javascript
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Great applications of JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [JavaScript puzzles](https://www.youtube.com/watch?v=DA5aN3yZjC0&list=PLTSpoOgQUpKOc6uX0JVYl9BTzQBq3nki6)
+
+
+##  Javascript OOP
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn JavaScript OOP](https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
+
 
 
 
