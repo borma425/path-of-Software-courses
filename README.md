@@ -228,5 +228,66 @@
 
 -------------------------------
 
+## Learn laravel framework
 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Laravel For Beginners ](https://www.youtube.com/watch?v=MhWeaS0UiRw&list=PLWCBAKY7-4buQazvDjeZhjLl54UqbF3lM)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [PHP Laravel - eLancer Project 2021](https://www.youtube.com/playlist?list=PL13Ag2mfco65xXKGmqs6R4noM3CirsSNO)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Laravel 8 course in Arabic from zero to professional](https://www.youtube.com/playlist?list=PLd4ZH7drWj7DAt5osYlsya3sscPoERtGC)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel 8 Tutorial](https://www.youtube.com/playlist?list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn Laravel 8 Beginners Tutorial](https://www.youtube.com/playlist?list=PLT9miexWCpPUCBjFVFR_05Rr8pvLeoHO0)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel Learning Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+
+
+### new in Laravel
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [New In Laravel](https://www.youtube.com/playlist?list=PL2DahmvUpeuu4UVWrcxlvVkMiI0SeS2OZ)
+
+### Laravel Advanced
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel Blade Components](https://www.youtube.com/watch?v=o4ocFb1kmJM&list=PL1JpS8jP1wgAm1z3ntJZQ0ef9vokjJ56Z)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Laravel All Advanced Validation Course](https://www.youtube.com/playlist?list=PLcfD4HARQRF-j-kp6eRudFs0Hl0K6Nbk0)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel Errors](https://www.youtube.com/watch?v=p_BEF2CroeY&list=PL1JpS8jP1wgC9rGLji8-XuwLCaZszCZdK)
+
+### Laravel Projects
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Laravel 8 complete project](https://www.youtube.com/playlist?list=PLlc3UcIvlwWOULQiXceP_zow39ZYqsmyP)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [laravel real time chat app for free](https://www.youtube.com/watch?v=2GbLrRx0zvI&list=PLAOkLQh94O2jy1LrkF2lOrIBmlBZTJo6l)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [laravel roles and permissions ](https://www.youtube.com/watch?v=uIOvPtrpdWs&list=PLAOkLQh94O2hzCURCfmUlaRxFdUNhrBsD)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Laravel Job Batching](https://www.youtube.com/playlist?list=PLe30vg_FG4OTrILM1C9NvCgujTRKGsAwB)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel 8 Blog Tutorial Up to Deployment.](https://www.youtube.com/playlist?list=PL-OHVhAxtpSD41d98Nrpw32rrhJ5vvVtL)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Create membership blog with Laravel & Stripe](https://www.youtube.com/watch?v=bLAqJaz_brA&list=PL1JpS8jP1wgAI78YrMzHyN84blfZ_27Kk)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel Activity Log by Spatie](https://www.youtube.com/watch?v=j6FB5WelWZY&list=PLe30vg_FG4ORQHgQdctfsvDf_vVhQ3KC5)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel Horizon](https://www.youtube.com/playlist?list=PLe30vg_FG4OSmgA7QEwVBQ6qU6dFMunrz)
+
+
+## Laravel Api
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Laravel Restful Api](https://www.youtube.com/playlist?list=PLUW_FXi512q8oUFyfq2apoKwby4pNxhy6)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel Test Driven API](https://www.youtube.com/playlist?list=PLe30vg_FG4OQjsSiCbJhje5jAua12JjTc)
+
+-------------------------------
 
