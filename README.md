@@ -211,5 +211,22 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [JSON, Fetch API and REST API course](https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX)
 
+-------------------------------
+
+## Learn  Ajax
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn ajax](https://www.youtube.com/playlist?list=PLDoPjvoNmBAytfRIdMIkLeoQHP0o5uWBa)
+
+--------------------------
+## Learn regular expression `REGEX`
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Regular Expression tutorial - Arabic](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4aVMg7hgQGHyQBZnHgFjJk)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Common Regular Expressions Lectures](https://www.youtube.com/playlist?list=PLrwRNJX9gLs11YAWmGhjwDM6QxDjLClLQ)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)
+
+-------------------------------
+
 
 
