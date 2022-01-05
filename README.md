@@ -148,4 +148,37 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [crud using php mvc](https://www.youtube.com/playlist?list=PLe_UJpVeP8qChlO1eyFI7dMcMCGIQNbU1)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Php Testing](https://www.youtube.com/playlist?list=PLe30vg_FG4OQi65Ee7hio0knUJrSEIY37)
+
+
+
+----------------------------------
+## Learn SQL
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Introduction to Databases Using MSSQL](https://www.youtube.com/playlist?list=PLVp0hvzMSQHQrVQkOTzsygb2y0Kzkhjlp)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [SQL basics](https://www.youtube.com/playlist?list=PL3wtLgtLZMw9JWMMidbtk3vCZUq_4_n5M)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn SQL basics and advanced concepts in Arabic](https://www.youtube.com/watch?v=e9xybkplSfs&list=PL7mt2FDjAkPf5lpAnUDwbTYH4tuB-BN-v)
+
+### Learn Mysql
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [MySQL Basics & Expert Sessions](https://www.youtube.com/playlist?list=PLT9miexWCpPVe0WRSVkstMsXOouu_8Dnx)
+
+### Projects Using PHP + Mysql
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Create Dynamic blog CMS in PHP with MYSQL database](https://www.youtube.com/playlist?list=PL6vwhX62HSKTDXrLlZPGwXLg7EtnZ9mS2)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [How to create and deploy PHP/MySQL Web Application using Digitalocean](https://www.youtube.com/watch?v=g5B9RI7v_1E&list=PL4apNHBRJVlQ56Pj3BS2CfxhavTAV3MLd)
+
+
+
+
 
