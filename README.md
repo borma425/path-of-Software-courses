@@ -39,6 +39,9 @@
 ----------------------------
 ## Pre-programming
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Frequently Asked Questions](https://www.youtube.com/playlist?list=PLVp0hvzMSQHSlu-uMeI3_pRyndQVUGH5j)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Pre-programming](https://www.youtube.com/playlist?list=PLVp0hvzMSQHSr2hw3AffhNGqnU8OC8CFN)
 
 
@@ -62,6 +65,7 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Cs Master Level 4 ](https://www.youtube.com/watch?v=PuiK3712dhk&list=PLL2zWZTDFZzhul3X8djkfXzUxl7Cw7-sF)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ CS 361 Systems Programming ](https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP)
 
 --------------------------------------
 
@@ -487,6 +491,13 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Hacker Heroes ](https://www.youtube.com/playlist?list=PLmqenIp2RQciswPahePj3P3jpbhknrOCx)
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ usable security](https://www.youtube.com/playlist?list=PL2jykFOD1AWbchUbJuthr2O_o5wbjF-Ud)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Cyber-Physical Systems Modeling and Simulation ](https://www.youtube.com/playlist?list=PL2jykFOD1AWYmJdfZXFGXFh3F0NQ_C2Ex)
+
+### cryptography
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ cryptography ](https://www.youtube.com/playlist?list=PL2jykFOD1AWYosqucluZghEVjUkopdD1e)
+
 
 ------------------------------
 
