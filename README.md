@@ -414,6 +414,10 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Learn TypeScript ](https://www.youtube.com/watch?v=VWYqtKSzdYQ&list=PLtFbQRDJ11kH1RHmJD7DYtV9RXY42Al5g)
 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn TypeScript ](https://scrimba.com/learn/typescript)
+
+
 ---------------------------
 
 ## Learn  Ajax
