@@ -70,7 +70,7 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Algorithms - Crash Course](https://www.youtube.com/playlist?list=PLPt2dINI2MIayAafeRHZPVhIoL7yZTyB9)
 
 
-
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Teaching You Algorithms For Your Next Job](https://www.youtube.com/watch?v=GjpZxdh4TZc&list=PL-lxoPS_1OXVN_aJNHo_xrmMiBmV6nytS)
 
 
 ### Algorithm Advanced and Tools
