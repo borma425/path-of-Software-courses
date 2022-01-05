@@ -33,6 +33,7 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Lack of Self-Control ](https://www.youtube.com/watch?v=aiYLXcSBn3A)
 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Working From Home Tips ](https://www.youtube.com/playlist?list=PLc6zqGSJMvCTpN2zJm-WLghCl3fhoF9m8)
 
 
 ----------------------------
