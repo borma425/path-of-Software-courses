@@ -263,6 +263,7 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [API Web Services](https://www.youtube.com/playlist?list=PLhW3qG5bs-L9E2KV6vVdB-YTk-sRxmRAB)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [API Essentials](https://www.youtube.com/playlist?list=PLOspHqNVtKAAAq9pHWlEiRUVcYMCcu4X0)
 
 ### Web security
 
@@ -573,6 +574,10 @@
 ------------------------------
 
 ## Cloud
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Cloud Fundamentals ](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Cloud Data Storage Explained ](https://www.youtube.com/playlist?list=PLOspHqNVtKAAXDobTc9kBWwnfgzNV2k_a)
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ AWS SAA-C02 ](https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
 
