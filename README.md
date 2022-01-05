@@ -282,8 +282,8 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Security 🔑 (how to secure web apps)](https://www.youtube.com/playlist?list=PLMjEab-Nv-KhZqrSfEVDO4ZFUkNnjU2Gc)
 
-----------------------------------
 
+------------------------------
 ## Learn PHP
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ php course from beginning to professionalism](https://www.youtube.com/playlist?list=PLftLUHfDSiZ5LAQuaKUUpN8F_dvKTPEtc)
@@ -404,6 +404,14 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn JavaScript OOP](https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
 
+### Javascript Binry Search
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Merge Sort - Coding Algorithms Explained ](https://www.youtube.com/watch?v=1sdEchFsL0Y)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [How to Implement Binary Search from Scratch ](https://www.youtube.com/watch?v=m2QzEG8IqxI)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Binary Search algorithm ](https://www.youtube.com/watch?v=7lGiPItOVCM)
 
 ----------------------------------
 ## Learn JSON
@@ -423,6 +431,28 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn TypeScript ](https://scrimba.com/learn/typescript)
 
+--------------------------------
+## Javascript frameworks
+
+### D3
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn D3 for free ](https://scrimba.com/learn/d3js)
+
+### Alpine.js
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn Alpine.js ](https://www.youtube.com/playlist?list=PLfdtiltiRHWF0T2HE1D4hxN4vaeh4wW3g)
+
+### Alpine.js
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn Alpine.js ](https://www.youtube.com/playlist?list=PLfdtiltiRHWF0T2HE1D4hxN4vaeh4wW3g)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn Alpinejs with Practical Projects ](https://www.youtube.com/playlist?list=PLB4AdipoHpxYxE4vGj5Vb3_rwV99LEN8r)
+-------------------------------------
+
+## Tailwind Css
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Tailwind Complete Course For Beginner to Advanced ](https://www.youtube.com/watch?v=lZp4salRFFc)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [What's new in Tailwind CSS v3.0? ](https://www.youtube.com/watch?v=mSC6GwizOag)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Tailwind CSS 3 Crash Course ](https://www.youtube.com/watch?v=LyRWNJK8I6U)
 
 ---------------------------
 
