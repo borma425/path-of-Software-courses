@@ -413,6 +413,12 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Binary Search algorithm ](https://www.youtube.com/watch?v=7lGiPItOVCM)
 
+--------------------------------
+
+Learn markdown
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn markdown How to Write Readme File](https://youtu.be/WRrpIEMVkzk)
+
 ----------------------------------
 ## Learn JSON
 
