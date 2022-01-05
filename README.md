@@ -188,6 +188,38 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [VsCode Tips](https://www.youtube.com/watch?v=C_pLORrkaiw&list=PL2DahmvUpeuszoDFtzV6yZiUcbw-Rf3yX)
 
+
+
+
+
+
+-------------------------------
+
+## Learn Python
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Mastering Python](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Python for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+
+### Python Networking & Security
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Mastery in Networking & Security ](https://www.youtube.com/playlist?list=PLBPdtL8DZBZL6PwIslfXE5N7uDnKWGGFv)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Python Learning for Network Engineers ](https://www.youtube.com/playlist?list=PLOocymQm7YWakdZkBfCRIC06fv7xQE85N)
+
+### Learn django framework
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [All You Need to Know About Django](https://www.youtube.com/watch?v=fIYVXygQUr4)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [7 Concepts Django Developer must Know](https://www.youtube.com/watch?v=AqwHQzh18Ic)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Django 4.0 Release Notes! ](https://www.youtube.com/watch?v=bE23wioMGao)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Django Full Couse ](https://www.youtube.com/playlist?list=PLBPdtL8DZBZIJWC1rZlUG-x6H33IScVmK)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Python Django Course for Beginners  ](https://www.youtube.com/watch?v=t7DrJqcUviA)
+
 -----------------------------
 ## Web developer Tricks and Tips
 
