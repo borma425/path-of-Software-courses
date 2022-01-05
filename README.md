@@ -82,6 +82,7 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Data Structures: Aho-Corasick Automaton](https://www.youtube.com/watch?v=O7_w001f58c)
 
+----------------------------------
 
 ## Learn PHP
 
@@ -191,7 +192,7 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Problems Solving With JavaScript](https://www.youtube.com/watch?v=EIfiHElTpyI&list=PLDoPjvoNmBAxCjHi-HIfNoZrMkfbuvVDY)
 
-## Advanced Javascript
+### Advanced Javascript
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Great applications of JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
 
@@ -199,10 +200,16 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [JavaScript puzzles](https://www.youtube.com/watch?v=DA5aN3yZjC0&list=PLTSpoOgQUpKOc6uX0JVYl9BTzQBq3nki6)
 
 
-##  Javascript OOP
+###  Javascript OOP
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn JavaScript OOP](https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
 
+
+----------------------------------
+
+##  Javascript AND PHP REST API
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [JSON, Fetch API and REST API course](https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX)
 
 
 
