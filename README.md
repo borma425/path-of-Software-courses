@@ -49,6 +49,20 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ How to Build a PC ](https://www.youtube.com/playlist?list=PLc6zqGSJMvCTBN0XrR45tPkJLZ5R-gds-)
 
 
+----------------------------------------
+## computer science `CS`
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Cs50 in Arabic](https://www.youtube.com/watch?v=LzcrZXnhooo&list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Cs Master Level 1 ](https://www.youtube.com/watch?v=hxNi6unsrAg&list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Cs Master Level 2 ](https://www.youtube.com/watch?v=hIowYaPn-fE&list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Cs Master Level 3 ](https://www.youtube.com/watch?v=o9glYZ8z41A&list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Cs Master Level 4 ](https://www.youtube.com/watch?v=PuiK3712dhk&list=PLL2zWZTDFZzhul3X8djkfXzUxl7Cw7-sF)
+
+
 --------------------------------------
 
 ## Correct your programming information
@@ -137,12 +151,15 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Data Structures: Aho-Corasick Automaton](https://www.youtube.com/watch?v=O7_w001f58c)
 ---------------------------------
 
-
-## Web developer Tricks and Tips
-
-### VS Code
+## VS Code
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [how to Use vscode](https://www.youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [VsCode Tips](https://www.youtube.com/watch?v=C_pLORrkaiw&list=PL2DahmvUpeuszoDFtzV6yZiUcbw-Rf3yX)
+
+-----------------------------
+## Web developer Tricks and Tips
+
 
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Developer Tips & Advice](https://www.youtube.com/watch?v=Sp9AQvbBvfQ&list=PLtZ8UuFjvnDfdi4lzinwVCRcNo-vjFouV)
