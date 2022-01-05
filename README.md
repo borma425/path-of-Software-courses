@@ -432,6 +432,48 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Amazon Web Services Basics](https://www.youtube.com/watch?v=zYOOY_DVnjo&list=PL55RiY5tL51pgPovJKg6HFMFqiGNSZtQ5)
 
+------------------------------
+
+
+## Database
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Relational Databases ](https://www.youtube.com/watch?v=T0DVb-lUCRY&list=PLPqqGKKStdTHbI1Taoi5kduBcOGuZOUbf)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Fundamentals of Database Systems ](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Database Management Systems Course ](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Database Design ](https://www.youtube.com/watch?v=KUwOcip7Zzc&list=PLgfX__nBDlZxllsEugYbLfIHLPWmtJHAV)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Database Design ](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=PLxwY5ovo4OFcxN6izXMRQhLw5u9R4hONE)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Seven Databases in Seven Weeks ](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY2xvwxuKjZT5qFH0sQga8_)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Designing data intensive applications ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
 
 
 
+-----------------------
+## Big Data
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Data Processing ](https://www.youtube.com/watch?v=YSu47BFxdEc&list=PLPqqGKKStdTFdsaJQTmvsNrlbAQuaryvP)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Data Ingestion ](https://www.youtube.com/watch?v=2dFJjAv2m5w&list=PLPqqGKKStdTG9fuEyMaZz5naj6mdan-ZU)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ NoSQL Databases -Redis- ](https://www.youtube.com/watch?v=uFwNNqhmhMQ&list=PLPqqGKKStdTF8-DZ5Q68vxFzLOSgINwYE)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Sqoop in Arabic ](https://www.youtube.com/watch?v=i2oXKYeQENg&list=PLIjRQfOUyJAF-L2mDw868K6i0CaT6YAwk)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Hadoop in Arabic ](https://www.youtube.com/watch?v=3PAl0y067Ag&list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Hive in Arabic ](https://www.youtube.com/watch?v=OCG3rY-qZLA&list=PLIjRQfOUyJAEDN_ipLMM6mBjGK2jCVPre)
+
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Hadoop in Arabic ](https://www.youtube.com/watch?v=kA9j3JLvTjc&list=PLIjRQfOUyJAGbxDOa3igoqCTcA76_A5GD)
