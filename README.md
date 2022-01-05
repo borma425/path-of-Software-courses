@@ -409,7 +409,13 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Linux Basics](https://www.youtube.com/playlist?list=PLc7fktTRMBowL6UykDk5hQBGyULHw5pcL)
 
 -------------------------
+## Learn ruby language 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [IS RUBY ON RAILS WORTH LEARNING ](https://www.youtube.com/watch?v=x8h4y8tXUM0)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Ruby Beginner Tutorials](https://www.youtube.com/watch?v=WNG7BnU6rXk&list=PLhW3qG5bs-L-qXp4BaODp24tFPQEIXY1N)
+
+--------------------------------
 
 ## Learn Blogger Programming
 
