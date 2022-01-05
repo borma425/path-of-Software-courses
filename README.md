@@ -137,7 +137,13 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Data Structures: Aho-Corasick Automaton](https://www.youtube.com/watch?v=O7_w001f58c)
 ---------------------------------
 
+
 ## Web developer Tricks and Tips
+
+### VS Code
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [how to Use vscode](https://www.youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl)
+
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Developer Tips & Advice](https://www.youtube.com/watch?v=Sp9AQvbBvfQ&list=PLtZ8UuFjvnDfdi4lzinwVCRcNo-vjFouV)
 
