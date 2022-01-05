@@ -12,15 +12,16 @@
 
 ### communication skills
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Communication skills with others ](https://www.youtube.com/watch?v=xRmHDHMPy1U&list=PLV9UwIc-HwEEjdMV5xpdhe5CjuJtGIckU)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Communication skills ](https://www.youtube.com/watch?v=xRmHDHMPy1U&list=PLV9UwIc-HwEEjdMV5xpdhe5CjuJtGIckU)
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=Rr15_1E6EKQ&list=PL4z9gdpRQP4z32TQnI0d-7foEHLzLfQMA)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Communication skills ](https://www.youtube.com/watch?v=VLC4ufhRJ1U&list=PL1cYVDNTSuOpDWBdCtqGLftRyy9wwKzUL)
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ How to become a positive and effective person in society ](https://www.youtube.com/playlist?list=PL1cYVDNTSuOqrTTNRG5_cOkeBUTZzbPg_)
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
+### Time management skills
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Time management skills course](https://www.youtube.com/playlist?list=PLqGEgt_8f5gSM6JNsCtixzFfuK5MZlgHi)
+
 
 
 ----------------------------
