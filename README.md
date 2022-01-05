@@ -137,6 +137,28 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Data Structures: Aho-Corasick Automaton](https://www.youtube.com/watch?v=O7_w001f58c)
 ---------------------------------
 
+## Web developer Tricks and Tips
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Coding Bootcamp](https://www.youtube.com/watch?v=KdzsZCq4pVo&list=PL-lxoPS_1OXXd9Cq6O10kxui5n9Z1VHGM)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Common Mistakes](https://www.youtube.com/watch?v=XQcbTYv_Cz0&list=PL-lxoPS_1OXVxR8uvht_bt0YbEvuojrUH)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Developer Advice](https://www.youtube.com/watch?v=PaMj9s7g-PQ&list=PL-lxoPS_1OXXf_R4ndAEOsevy9iA7Oeal)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Where Should You Go And Read As A Developer?](https://www.youtube.com/watch?v=4kLUrK2viUY&list=PL-lxoPS_1OXU0s5cmFid31ivAjcC2MV7a)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [What To Expect As A Web Developer](https://www.youtube.com/watch?v=iBL7pPwoLS4&list=PL-lxoPS_1OXU83RRUyB7MJ2mXzT0vkLxz)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Developer Interview Questions](https://www.youtube.com/watch?v=gC5Mgu9pZ0Q&list=PL-lxoPS_1OXWJoOVLOoARSEls3xyvgCqa)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Developer Interview Questions](https://www.youtube.com/watch?v=z6cvj6cMIr0&list=PL-lxoPS_1OXWOnH5VB2u8WFZFpjichLbc)
+
+
+----------------------------
 ## Web security
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Security 🔑 (how to secure web apps)](https://www.youtube.com/playlist?list=PLMjEab-Nv-KhZqrSfEVDO4ZFUkNnjU2Gc)
