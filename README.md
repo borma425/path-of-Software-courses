@@ -4,6 +4,12 @@
 
 ### هذة دورات عامة قمت بلوصول لها وبصعوبة وفلترتها من بين عشرات الدورات الأخري لتكون المناسبة لي واشاركها معكم
 
+## Correct your programming information
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Know the truth and keep it inside you](https://www.youtube.com/playlist?list=PLcfD4HARQRF-KG9KGKg_2mjCApcqbZDI_)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [technical capsules](https://www.youtube.com/playlist?list=PLcfD4HARQRF-BRmJ_nzxu6_JM2dMbUH8F)
 
 
 ## Algorithm
@@ -81,6 +87,11 @@
 ### Data Structures Advanced and Tools
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Data Structures: Aho-Corasick Automaton](https://www.youtube.com/watch?v=O7_w001f58c)
+---------------------------------
+
+## Web security
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Security 🔑 (how to secure web apps)](https://www.youtube.com/playlist?list=PLMjEab-Nv-KhZqrSfEVDO4ZFUkNnjU2Gc)
 
 ----------------------------------
 
@@ -206,12 +217,17 @@
 
 
 ----------------------------------
+## Learn JSON
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn JSON and how to work with API's](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ)
+---------------------------
 
 ##  Javascript AND PHP REST API
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [JSON, Fetch API and REST API course](https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX)
 
 -------------------------------
+
 
 ## Learn  Ajax
 
@@ -295,5 +311,20 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn Git And Github](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
 ---------------------------------
+
+## Learn Command Line
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn Command Line](https://www.youtube.com/watch?v=JVs2Ywy7wGQ&list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
+
+-----------------------------------------
+
+## Learn Linux
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Linux course 2021](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Linux Basics](https://www.youtube.com/playlist?list=PLc7fktTRMBowL6UykDk5hQBGyULHw5pcL)
+
+-------------------------
+
 
 
