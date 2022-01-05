@@ -139,6 +139,9 @@
 
 ## Web developer Tricks and Tips
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Developer Tips & Advice](https://www.youtube.com/watch?v=Sp9AQvbBvfQ&list=PLtZ8UuFjvnDfdi4lzinwVCRcNo-vjFouV)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Coding Bootcamp](https://www.youtube.com/watch?v=KdzsZCq4pVo&list=PL-lxoPS_1OXXd9Cq6O10kxui5n9Z1VHGM)
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Common Mistakes](https://www.youtube.com/watch?v=XQcbTYv_Cz0&list=PL-lxoPS_1OXVxR8uvht_bt0YbEvuojrUH)
@@ -431,6 +434,10 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Journey into the mind of the customer ](https://www.youtube.com/watch?v=sKu0fRNLzw8&list=PLqGEgt_8f5gQmJa_9aA8N4LAOuN8hlPV3)
 
 ## Learn penetration test And Cyber Security
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ The way to learn information security ](https://www.youtube.com/watch?v=REV9jzkqhcA&list=PLYR9UaWIxXwHAVqBBmC8mlmvoYkNq66MB)
+
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ So, You Wanna Do Security ? ](https://www.youtube.com/watch?v=i8rizLc4hc0)
 
