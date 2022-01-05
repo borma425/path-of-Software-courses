@@ -415,6 +415,9 @@
 
 ### Laravel Projects
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel 8 Authentication With Ajax](https://www.youtube.com/watch?v=BGo8H-Ld6qs)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Laravel 8 complete project](https://www.youtube.com/playlist?list=PLlc3UcIvlwWOULQiXceP_zow39ZYqsmyP)
 
 
@@ -581,3 +584,18 @@
 
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Hadoop in Arabic ](https://www.youtube.com/watch?v=kA9j3JLvTjc&list=PLIjRQfOUyJAGbxDOa3igoqCTcA76_A5GD)
+
+
+----------------------------
+
+## I have a lot of courses, but I did not put them because you may not like it or duplicate it for you
+But for me it was useful
+So I just shared a little with you
+
+![screenshot](https://user-images.githubusercontent.com/42983220/148234128-a5a9d782-6826-4b45-9d84-1ae760da86f8.png)
+
+
+
+
+
+
