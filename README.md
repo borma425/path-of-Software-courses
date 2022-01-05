@@ -99,6 +99,53 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Discover PHP 8 new features in Arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPcRamh3Ck0SSTvRUiZkdk2q)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [PHP 8.1](https://www.youtube.com/playlist?list=PL2DahmvUpeuuBKaZaIdpn_OVere-_e0dm)
 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [What's New In Php 8](https://www.youtube.com/watch?v=oTe8ZbnlwFY&list=PL2DahmvUpeush3HLOyvytqPSDW7vp0Bo5)
+
+### PHP Advanced
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Practical PHP basic and advanced tips](https://www.youtube.com/playlist?list=PL7mt2FDjAkPfX30QSw_e8vMctjJQ_PFxa)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Problems Solving With PHP](https://www.youtube.com/watch?v=MuMFM_vX-EA&list=PLDoPjvoNmBAzVHkcFPBTTWkVdVYnx7beb)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Mastering PHP Data Object](https://www.youtube.com/playlist?list=PL7mt2FDjAkPc0zYWg3_UcZr4YiWHx1z48)
+
+
+### PHP OOP
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn Object Oriented PHP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Object-Oriented Programming In PHP in Arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1)
+
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Object Oriented PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Design Patterns in OOP PHP](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [SOLID Principles in PHP Crash course](https://www.youtube.com/playlist?list=PLdYYj2XLw5BmCPq1yW56MpoopAZ1xs6qm)
+
+### PHP security
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [How to protect your PHP site](https://www.youtube.com/watch?v=Rpd5uDXwpsU&list=PLDoPjvoNmBAypWmEHEy3awR6Ek9sUe5ZS)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Pro PHP Security IN Arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPfuS1Vt4AAqGAjHEuKEFAPB)
+
+### Learn PHP MVC
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn PHP MVC](https://www.youtube.com/playlist?list=PLzMXI-_RvAdr0GOd4L9X9NlRfybTocmwb)
+
+### Using PHP MVC
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [crud using php mvc](https://www.youtube.com/playlist?list=PLe_UJpVeP8qChlO1eyFI7dMcMCGIQNbU1)
 
 
