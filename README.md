@@ -4,6 +4,17 @@
 
 ### هذة دورات عامة قمت بلوصول لها وبصعوبة وفلترتها من بين عشرات الدورات الأخري لتكون المناسبة لي واشاركها معكم
 
+## Pre-programming
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Pre-programming](https://www.youtube.com/playlist?list=PLVp0hvzMSQHSr2hw3AffhNGqnU8OC8CFN)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ IT Automation](https://www.youtube.com/playlist?list=PL2jykFOD1AWbIGL5c8FIbUdhLwDvCjkGN)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ How to Build a PC ](https://www.youtube.com/playlist?list=PLc6zqGSJMvCTBN0XrR45tPkJLZ5R-gds-)
+
+
+--------------------------------------
+
 ## Correct your programming information
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Know the truth and keep it inside you](https://www.youtube.com/playlist?list=PLpxoM9UzFN76Gp14ouXUGvK7Fot0b21DX)
@@ -351,5 +362,26 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Advanced SEO ](https://www.youtube.com/playlist?list=PLyJ8VDG2y1Wormsrw_71IogHxKmuHk6WR)
 
 
+## Learn penetration test And Cyber Security
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ So, You Wanna Do Security ? ](https://www.youtube.com/watch?v=i8rizLc4hc0)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ cyber secuirty for beginner ](https://www.youtube.com/playlist?list=PLYR9UaWIxXwE0GCbragUgJ7t-WO4dGGxL)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Cybersecurity ](https://www.youtube.com/playlist?list=PLc6zqGSJMvCQirRFTTcfodKaAbM1qgkNQ)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Learn cross site scripting attacks (XSS) ](https://www.youtube.com/playlist?list=PLdxfDCLPISTRvbPZ_mMUQtDMZuV4nSRJb)
+
+### Advanced
 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ IT Security ](https://www.youtube.com/playlist?list=PL2jykFOD1AWaEXEpyRf-Im3U8WQ962Y4B)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Hacker Tools ](https://www.youtube.com/playlist?list=PLmqenIp2RQch-N9mnm-5gFCtWWE3l4-cE)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Hacker Heroes ](https://www.youtube.com/playlist?list=PLmqenIp2RQciswPahePj3P3jpbhknrOCx)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ usable security](https://www.youtube.com/playlist?list=PL2jykFOD1AWbchUbJuthr2O_o5wbjF-Ud)
+
+------------------------------
