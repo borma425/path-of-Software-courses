@@ -6,6 +6,9 @@
 
 ## Correct your programming information
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Know the truth and keep it inside you](https://www.youtube.com/playlist?list=PLpxoM9UzFN76Gp14ouXUGvK7Fot0b21DX)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Know the truth and keep it inside you](https://www.youtube.com/playlist?list=PLcfD4HARQRF-KG9KGKg_2mjCApcqbZDI_)
 
 
@@ -325,6 +328,28 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Linux Basics](https://www.youtube.com/playlist?list=PLc7fktTRMBowL6UykDk5hQBGyULHw5pcL)
 
 -------------------------
+
+
+## Learn Blogger Programming
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Professional blogger  level 1 ](https://www.youtube.com/watch?v=m5AgNDK5Gt4&list=PLfKMBHCNU1KMRp6ffnbcTt19NZIQsir2J)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Professional blogger  level 2 ](https://www.youtube.com/watch?v=8GGgXdL2zf8&list=PLfKMBHCNU1KOH1Ve3_9WbIfdLDdptBDQn)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Professional blogger  level 3 ](https://www.youtube.com/watch?v=srEJDyuW3wQ&list=PLfKMBHCNU1KOawFAEcYuuq0uZAAdxz64K)
+
+
+------------------------------
+
+## marketing
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Media Buying - Facebook Ads ](https://www.youtube.com/playlist?list=PLelgA39GQLDQLTXIyaf3YduurC-_Vcp2i)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Advanced SEO Strategies and Case Studies](https://www.youtube.com/playlist?list=PLKBtl5eztC2EFWZq41vYsnfKDllFKl_Qd)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Advanced SEO ](https://www.youtube.com/playlist?list=PLyJ8VDG2y1Wormsrw_71IogHxKmuHk6WR)
+
 
 
 
