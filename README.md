@@ -22,6 +22,17 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Time management skills course](https://www.youtube.com/playlist?list=PLqGEgt_8f5gSM6JNsCtixzFfuK5MZlgHi)
 
+### successful person
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [What do you need to succeed?](https://www.youtube.com/watch?v=57IqxwEQd9g)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [What is the difference between your day and the day of a successful person? ](https://www.youtube.com/watch?v=U17OsfkdLu0)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Lack of Self-Control ](https://www.youtube.com/watch?v=aiYLXcSBn3A)
+
+
 
 
 ----------------------------
