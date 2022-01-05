@@ -155,6 +155,23 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Data Structures: Aho-Corasick Automaton](https://www.youtube.com/watch?v=O7_w001f58c)
 ---------------------------------
 
+## Software Engineering 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Software Engineering Basics  ](https://www.youtube.com/playlist?list=PLQUxWr2rTswnn7orjD90h-shNvf4S_3UY)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Software Engineering in Arabic  ](https://www.youtube.com/playlist?list=PL4mqzqquSRgaJ9XMQMUvMQjPyllD1xY5f)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Agile for Software Development ](https://www.youtube.com/playlist?list=PLcdCk5ljWQ-p3t9E_vPcGzZMGLoAeRUO5)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Software Design Patterns In Arabic ](https://www.youtube.com/playlist?list=PLQkyODvJ8ywsIlo7_VTPKRWUn2xWoaEyA)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ CSE312 Software Engineering ](https://www.youtube.com/playlist?list=PLAuF74dVvpM3kz6BaKcMUfDk2VelObKKq)
+
+--------------------------------
+
+
 ## VS Code
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [how to Use vscode](https://www.youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl)
@@ -164,6 +181,7 @@
 -----------------------------
 ## Web developer Tricks and Tips
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ How to become a very professional interface developer](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzTQ5TBsxkF2bZ4djZetUba)
 
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Web Developer Tips & Advice](https://www.youtube.com/watch?v=Sp9AQvbBvfQ&list=PLtZ8UuFjvnDfdi4lzinwVCRcNo-vjFouV)
@@ -189,7 +207,15 @@
 
 
 ----------------------------
-## Web Services
+## Web hosting
+
+### web hosting control panel
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Cpanel](https://www.youtube.com/watch?v=W9h5VZ-Lb0E&list=PLtsniHplQOtSu9aiymRsfIWE7E9nkyIfH)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Plesk](https://www.youtube.com/watch?v=w7GSb51y7vw&list=PLnSM-en8gVTx-G7RIrH-m_fShi3-mtokz)
+
 
 ### API Web Services
 
