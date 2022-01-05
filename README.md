@@ -34,6 +34,10 @@
 
 ### successful person
 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [How do you know your dream and your goal in life and get out of depression?](https://www.youtube.com/watch?v=qgCI6rYWzvw)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [If You Feel Broken](https://www.youtube.com/watch?v=57IqxwEQd9g)
 
 
