@@ -71,8 +71,6 @@
 
 
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Teaching You Algorithms For Your Next Job](https://www.youtube.com/watch?v=GjpZxdh4TZc&list=PL-lxoPS_1OXVN_aJNHo_xrmMiBmV6nytS)
-
 
 
 ### Algorithm Advanced and Tools
