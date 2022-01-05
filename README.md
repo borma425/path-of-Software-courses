@@ -277,7 +277,11 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [JSON, Fetch API and REST API course](https://www.youtube.com/playlist?list=PLMTdZ61eBnyqzVhegrlKy38Zwzky-eugX)
 
 -------------------------------
+## Learn TypeScript
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Learn TypeScript ](https://www.youtube.com/watch?v=VWYqtKSzdYQ&list=PLtFbQRDJ11kH1RHmJD7DYtV9RXY42Al5g)
+
+---------------------------
 
 ## Learn  Ajax
 
