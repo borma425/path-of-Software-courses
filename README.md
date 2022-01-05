@@ -4,9 +4,32 @@
 
 ### هذة دورات عامة قمت بلوصول لها وبصعوبة وفلترتها من بين عشرات الدورات الأخري لتكون المناسبة لي واشاركها معكم
 
+## Improve your personal skills
+
+### Soft Skills
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
+
+### communication skills
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Communication skills with others ](https://www.youtube.com/watch?v=xRmHDHMPy1U&list=PLV9UwIc-HwEEjdMV5xpdhe5CjuJtGIckU)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=Rr15_1E6EKQ&list=PL4z9gdpRQP4z32TQnI0d-7foEHLzLfQMA)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
+
+
+----------------------------
 ## Pre-programming
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Pre-programming](https://www.youtube.com/playlist?list=PLVp0hvzMSQHSr2hw3AffhNGqnU8OC8CFN)
+
+
+
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ IT Automation](https://www.youtube.com/playlist?list=PL2jykFOD1AWbIGL5c8FIbUdhLwDvCjkGN)
 
@@ -361,6 +384,7 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Advanced SEO ](https://www.youtube.com/playlist?list=PLyJ8VDG2y1Wormsrw_71IogHxKmuHk6WR)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Journey into the mind of the customer ](https://www.youtube.com/watch?v=sKu0fRNLzw8&list=PLqGEgt_8f5gQmJa_9aA8N4LAOuN8hlPV3)
 
 ## Learn penetration test And Cyber Security
 
@@ -385,3 +409,16 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ usable security](https://www.youtube.com/playlist?list=PL2jykFOD1AWbchUbJuthr2O_o5wbjF-Ud)
 
 ------------------------------
+
+## Cloud
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ AWS SAA-C02 ](https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ What is Azure? ](https://www.youtube.com/playlist?list=PLc6zqGSJMvCRYf7TQo8fZu64Yue-BM_58)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Amazon Web Services Basics](https://www.youtube.com/watch?v=zYOOY_DVnjo&list=PL55RiY5tL51pgPovJKg6HFMFqiGNSZtQ5)
+
+
+
+
