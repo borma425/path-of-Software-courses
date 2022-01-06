@@ -551,6 +551,9 @@ soon more ......
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn Alpinejs with Practical Projects ](https://www.youtube.com/playlist?list=PLB4AdipoHpxYxE4vGj5Vb3_rwV99LEN8r)
 
 ### Node.js
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Node js tutorial ](https://www.youtube.com/playlist?list=PL8p2I9GklV45ihqIep4n3_VijItAkcibN)
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Node.js Crash Course Tutorial ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Node.js Cloud `Api` ](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9noGbruLWtprOPvjA4rjmC)
@@ -670,6 +673,11 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [IS RUBY ON RAILS WORTH LEARNING ](https://www.youtube.com/watch?v=x8h4y8tXUM0)
 
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Programming Ruby](https://www.youtube.com/playlist?list=PL2jykFOD1AWaklE2NfhuKAYL3i8ji26KT)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Ruby Beginner Tutorials](https://www.youtube.com/watch?v=WNG7BnU6rXk&list=PLhW3qG5bs-L-qXp4BaODp24tFPQEIXY1N)
 
 --------------------------------
@@ -717,12 +725,30 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Hacker Tools ](https://www.youtube.com/playlist?list=PLmqenIp2RQch-N9mnm-5gFCtWWE3l4-cE)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Operating Systems ](https://www.youtube.com/playlist?list=PL2jykFOD1AWY3Ot3HResh50JwdBdjilsq)
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Hacker Heroes ](https://www.youtube.com/playlist?list=PLmqenIp2RQciswPahePj3P3jpbhknrOCx)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Cyber Attacks ](https://www.youtube.com/playlist?list=PL2jykFOD1AWZdmZuLEO4lnKr3ypuXPExq)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Cyber Attack Countermeasures ](https://www.youtube.com/playlist?list=PL2jykFOD1AWa6LmA7Qs1EkEUrlylW3uIC)
+
+
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ usable security](https://www.youtube.com/playlist?list=PL2jykFOD1AWbchUbJuthr2O_o5wbjF-Ud)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ software security ](https://www.youtube.com/playlist?list=PL2jykFOD1AWY1E3MB38_uOfpvEf4gnW80)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ hardware security ](https://www.youtube.com/playlist?list=PL2jykFOD1AWZRNhehPCsDLhfRkM1abYHd)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Hacker Heroes ](https://www.youtube.com/playlist?list=PLmqenIp2RQciswPahePj3P3jpbhknrOCx)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Cyber-Physical Systems Modeling and Simulation ](https://www.youtube.com/playlist?list=PL2jykFOD1AWYmJdfZXFGXFh3F0NQ_C2Ex)
+
+
+
 
 ### cryptography
 
