@@ -29,6 +29,8 @@
 
 - [Pre-programming](#pre-programming)
 - [computer science](#computer-science-cs)
+- [Networks](#networks)
+
 - [Correct your programming information](#correct-your-programming-information)
 - [Algorithms](#algorithm)
 - [Data Structure](#data-structure)
