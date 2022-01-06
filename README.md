@@ -80,6 +80,8 @@
     - [Alpine.js](#alpinejs)
     - [Node.js](#nodejs)
 
+
+
 - [ Tailwind Css  ](#tailwind-css)
 
 
@@ -576,8 +578,15 @@ soon more ......
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Node.js Cloud `Api` ](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9noGbruLWtprOPvjA4rjmC)
 
 -------------------------------------
+## UI & UX
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [The best way to start designing websites and applications UI UX](https://www.youtube.com/watch?v=8J7SyXFeS1U)
 
-## Tailwind Css
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Learn ui/ux design from zero to hero tutorial](https://www.youtube.com/playlist?list=PLSKqCHVeCbX5w8beQy6o0I8Sv7vXSGQbv)
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn UI Design (Web Design Tutorials In Adobe XD)](https://www.youtube.com/playlist?list=PLjwm_8O3suyPkIphVrJaebR2qE8jylWBQ)
+
+
+### Tailwind Css
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Tailwind Complete Course For Beginner to Advanced ](https://www.youtube.com/watch?v=lZp4salRFFc)
 
