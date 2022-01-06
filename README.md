@@ -12,6 +12,31 @@
 
    كل رابط بجانبة لغة التحدث للدورة و بداخلة دورة بها قائمة فيديوهات كاملة 
 
+
+--------------------------------------------
+
+## Contents
+
+- [Soft Skills](#installation)
+- [communication skills](#quick-start)
+- [Time management skills](#creating-new-document)
+- [successful person](#search-for-elements)
+- [Pre-programming](#verify-if-element-exists)
+- [computer science](#search-in-element)
+- [Correct your programming information](#supported-selectors)
+- [Algorithms(#output)
+- [Data Structure(#output)
+- [Software Engineering(#output)
+
+- [Software Engineering(#output)
+
+- [Working with elements](#working-with-elements)
+    - [Creating a new element](#creating-a-new-element)
+    - [Getting the name of an element](#getting-the-name-of-an-element)
+
+
+-------------------------------------------
+
 ------------------------
 -------------------------
 ## Improve your personal skills
