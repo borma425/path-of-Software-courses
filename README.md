@@ -138,6 +138,10 @@
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ How to become a positive and effective person in society ](https://www.youtube.com/playlist?list=PL1cYVDNTSuOqrTTNRG5_cOkeBUTZzbPg_)
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Why You Hate Seeing Your Face in Video Meetings ](https://www.inc.com/melina-palmer/why-you-hate-seeing-your-face-in-video-meetings.html)
+
+
+
 ### Time management skills
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Time management skills course](https://www.youtube.com/playlist?list=PLqGEgt_8f5gSM6JNsCtixzFfuK5MZlgHi)
