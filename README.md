@@ -424,6 +424,10 @@ soon more ......
 ------------------------------
 ## Learn PHP
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [How to become a dragon web developer in php back end developer](https://www.youtube.com/watch?v=K30C5iuV2H4)
+
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ php course from beginning to professionalism](https://www.youtube.com/playlist?list=PLftLUHfDSiZ5LAQuaKUUpN8F_dvKTPEtc)
 
 
@@ -840,6 +844,15 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Designing data intensive applications ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
 
+-------------------------
+
+## Artificial Intelligence
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Getting started with artificial intelligence ](https://www.youtube.com/playlist?list=PLCwJ-zYcMM93oaF6ToBx81fJgeekVws7K)
+
+### Machine Learning
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Getting started with Machine Learning ](https://www.youtube.com/playlist?list=PL-cKUB-e2KitO5uYM0REL99Y3_q0mSRdP)
 
 
 -----------------------
