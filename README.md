@@ -126,6 +126,10 @@
 -------------------------
 ## Improve your personal skills
 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [How do you develop yourself in learning?](https://www.youtube.com/playlist?list=PL3wtLgtLZMw9n3geDMFQSk2oi_V5xIoGI)
+
+
 ### Soft Skills
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Soft Skills](https://www.youtube.com/watch?v=LlnoeUO8-F8&list=PLiY-jf8J2Mplc6151KJnXdzFYT9LO5Drs)
@@ -167,6 +171,10 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Working From Home Tips ](https://www.youtube.com/playlist?list=PLc6zqGSJMvCTpN2zJm-WLghCl3fhoF9m8)
 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Are you ready to work remotely? ](https://www.youtube.com/watch?v=6D-hn8M59jw)
+
+
+
 ----------------------------
 ## Pre-programming
 
@@ -199,6 +207,7 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ CS 361 Systems Programming ](https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP)
 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Operations research (OR) ](https://www.youtube.com/playlist?list=PL3wtLgtLZMw-wsmgfXAoeQoArBKDhIsXW)
 
 
 
