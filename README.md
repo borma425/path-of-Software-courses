@@ -472,6 +472,11 @@ soon more ......
 
 ### PHP security
 
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [PHP Security Course](https://www.youtube.com/playlist?list=PLCwJ-zYcMM90WIZ2Zxy0yD-LQnEI77JQ6)
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [How to protect your PHP site](https://www.youtube.com/watch?v=Rpd5uDXwpsU&list=PLDoPjvoNmBAypWmEHEy3awR6Ek9sUe5ZS)
 
 
