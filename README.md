@@ -327,6 +327,15 @@
 --------------------------------
 
 
+## SOLID Principles 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [SOLID Principles](https://www.youtube.com/playlist?list=PLStwsNXljjnHuDKem07YBs1WaS7c7ZoVF)
+
+
+
+-------------------------------
+
+
 ## VS Code
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [how to Use vscode](https://www.youtube.com/playlist?list=PLe30vg_FG4OSNb8JKKCn3eWbY8gPr4_Bl)
