@@ -145,6 +145,11 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Why You Hate Seeing Your Face in Video Meetings ](https://www.inc.com/melina-palmer/why-you-hate-seeing-your-face-in-video-meetings.html)
 
 
+### Project management
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Business Terminologies ](https://www.youtube.com/playlist?list=PLv3mPa3pE30awokx9qQ5IV-nfKts7vl8o)
+
 
 ### Time management skills
 
