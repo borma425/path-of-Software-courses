@@ -553,6 +553,11 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Problems Solving With JavaScript](https://www.youtube.com/watch?v=EIfiHElTpyI&list=PLDoPjvoNmBAxCjHi-HIfNoZrMkfbuvVDY)
 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Javascript Tips And Tricks](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8Y47rtUnKXewgaBsXD-9KT)
+
+
+
 ### Advanced Javascript
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Great applications of JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
