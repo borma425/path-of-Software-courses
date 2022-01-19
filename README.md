@@ -334,6 +334,10 @@
 
 ## SOLID Principles 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [SOLID Principles Javascript](https://www.youtube.com/playlist?list=PLQtNtS-WfRa9Dwu0xHfC0gALHCdia6L6w)
+
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [SOLID Principles](https://www.youtube.com/playlist?list=PLStwsNXljjnHuDKem07YBs1WaS7c7ZoVF)
 
 
@@ -559,6 +563,10 @@ soon more ......
 
 
 ### Advanced Javascript
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [javascript interview questions](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8H4y43mwP5eswnKtd8p4WH)
+
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Great applications of JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
 
