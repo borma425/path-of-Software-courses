@@ -660,10 +660,14 @@ soon more ......
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Laravel 8 course in Arabic from zero to professional](https://www.youtube.com/playlist?list=PLd4ZH7drWj7DAt5osYlsya3sscPoERtGC)
 
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn Laravel 8 Beginners Tutorial](https://www.youtube.com/playlist?list=PLT9miexWCpPUCBjFVFR_05Rr8pvLeoHO0)
+
+
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel 8 Tutorial](https://www.youtube.com/playlist?list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD)
 
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Learn Laravel 8 Beginners Tutorial](https://www.youtube.com/playlist?list=PLT9miexWCpPUCBjFVFR_05Rr8pvLeoHO0)
 
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel Learning Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
