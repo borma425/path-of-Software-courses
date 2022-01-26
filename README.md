@@ -456,6 +456,14 @@ soon more ......
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [PHP Tutorial for Beginners - Full Course | OVER 7 HOURS! ](https://www.youtube.com/watch?v=t0syDUSbdfE)
+
+
+
+
+
+
+
 ### About PHP 8
 ### News in V8
 
