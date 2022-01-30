@@ -79,6 +79,7 @@
     - [D3.js](#d3)
     - [Alpine.js](#alpinejs)
     - [Node.js](#nodejs)
+    - [Anime.js](#animejs)
 
 
 
@@ -641,6 +642,17 @@ soon more ......
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Node.js Crash Course Tutorial ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [Node.js Cloud `Api` ](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9noGbruLWtprOPvjA4rjmC)
+
+### Anime.js
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [ AnimeJS tutorial ](https://www.youtube.com/playlist?list=PLfT5YwTr4_uVZZ11kwKM--hFF7oROBqYT)
+
+
+
+
+
+
+
 
 -------------------------------------
 ## UI & UX
