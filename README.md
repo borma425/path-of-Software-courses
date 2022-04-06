@@ -450,6 +450,8 @@ soon more ......
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [How to become a dragon web developer in php back end developer](https://www.youtube.com/watch?v=K30C5iuV2H4)
 
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ PHP Bootcamp 2022](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
+
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ php course from beginning to professionalism](https://www.youtube.com/playlist?list=PLftLUHfDSiZ5LAQuaKUUpN8F_dvKTPEtc)
 
@@ -689,6 +691,11 @@ soon more ......
 -------------------------------
 
 ## Learn laravel framework
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Laravel 9 Full Course](https://www.youtube.com/playlist?list=PLxxZ9NP6hK8czaUux90UFKGaSNZEAJ8W6)
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [Laravel 9 for Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk_mM2jEf7t8P678O_jz83on)
 
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [ Laravel For Beginners ](https://www.youtube.com/watch?v=MhWeaS0UiRw&list=PLWCBAKY7-4buQazvDjeZhjLl54UqbF3lM)
