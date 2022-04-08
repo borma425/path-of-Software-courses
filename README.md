@@ -226,6 +226,9 @@
 
 ------------------------------------------
 
+## FrontEnd Roadmap
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [FrontEnd roadmap 2022](https://www.youtube.com/watch?v=uheOkfZgUf0)
+
 
 
 ## Backend Roadmap
