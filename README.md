@@ -734,6 +734,8 @@ soon more ......
 
 ### new in Laravel
 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Arabic` -  [What’s New in Laravel v9.0](https://www.youtube.com/playlist?list=PLcfD4HARQRF-P3L3elDz2gF2xLDgIrc98)
+
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `English` -  [New In Laravel](https://www.youtube.com/playlist?list=PL2DahmvUpeuu4UVWrcxlvVkMiI0SeS2OZ)
 
 ### Laravel Advanced
