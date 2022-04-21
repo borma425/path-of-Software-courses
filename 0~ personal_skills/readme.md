@@ -74,6 +74,15 @@
 - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Video` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `English` &#xA0; -  [ how to learn a language on your own](https://youtu.be/qD0rtYNpQx0)
 
 
+ - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Video` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `English` &#xA0; -  [ How to Find the One Thing to Focus On](https://youtu.be/no7DGIFOT5M)
+
+
+  - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Video` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `English` &#xA0; -  [ How to Read Books for Maximum Learning](https://youtu.be/bHBVgmumaKY)
+
+
+  - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Video` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `English` &#xA0; -  [How to Write Every Day](https://youtu.be/S0b_Q4r7vro)
+
+
  
  
 
@@ -97,6 +106,14 @@
 
 
 ### successful person
+
+- [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Video` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `English` &#xA0; -  [25 Lessons that Changed My Life ](https://youtu.be/dzKEm4rCJJ0)
+
+
+
+
+- [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Video` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `English` &#xA0; -  [How to Break Bad Habits ](https://youtu.be/Ye8LoXskKZs)
+
 
 
 
