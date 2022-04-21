@@ -15,9 +15,10 @@
  - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Course` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `Arabic` &#xA0; -  [Frequently Asked Questions](https://www.youtube.com/playlist?list=PLVp0hvzMSQHSlu-uMeI3_pRyndQVUGH5j)
 
 
+## Learn Programming language
+ 
+  - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Course` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `Arabic` &#xA0; -  [How to learn a programming language from scratch to intermediate stage](https://youtu.be/xXfI6hIOJ3I)
 
- 
- 
  
 ## Correct your programming information
 
