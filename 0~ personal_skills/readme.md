@@ -9,7 +9,7 @@
 ## تهتم هذة الفيديوهات القصيرة والدورات إلي تطوير المهارات الشخصية .
 
 
-- [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Video` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `Arabic` &#xA0; -  [How do you develop yourself in learning?](https://www.youtube.com/playlist?list=PL3wtLgtLZMw9n3geDMFQSk2oi_V5xIoGI)
+
 
 
 ### Soft Skills
