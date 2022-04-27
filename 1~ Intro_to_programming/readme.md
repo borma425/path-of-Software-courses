@@ -8,7 +8,9 @@
 
 ## Pre-programming
  
- 
+  - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Course` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `Arabic` &#xA0; -  [Essentials for every programmer](https://www.youtube.com/playlist?list=PL3X--QIIK-OHgMV2yBz3GLfM5d_5BxOSj)
+
+
  - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Course` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `Arabic` &#xA0; -  [Pre-programming](https://www.youtube.com/playlist?list=PLVp0hvzMSQHSr2hw3AffhNGqnU8OC8CFN)
 
 
