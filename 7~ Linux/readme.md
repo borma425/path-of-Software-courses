@@ -19,6 +19,13 @@
 
  - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Course` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `Arabic` &#xA0; -  [Complete Linux course for beginners ](https://www.youtube.com/playlist?list=PLNSVnXX5qE8VOJ6BgMytvgFpEK2o4sM1o)
 
+
+
+ - [x] ![#ff5722](https://via.placeholder.com/12/15B3E8/000000?text=+) &#xA0;	 `Course` - &#xA0;	 ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) &#xA0; `Arabic` &#xA0; -  [Learn Linux System](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg)
+
+
+
+
 ------------------------------------------
 
 # - ![#ff5722](https://via.placeholder.com/12/30D933/000000?text=+) &#xA0;	  Learn LFCS 
